@@ -1,3 +1,47 @@
+h1{
+  height: 200px;
+  background-color: lightgrey;
+}
+
+.column33 {
+      float: left;
+      width: 33%;
+      }
+.column66 {
+      float: left;
+      width: 66%;
+      }
+.column25 {
+      float: left;
+      width: 25%;
+      }
+
+.content-container {
+      width: 1000px;
+      margin-left: auto;
+      margin-right: auto;
+
+    }
+.ugly_button {
+
+      background-color: blue;
+      color: white;
+      text-decoration:none;
+      display: inline-block;
+      border-radius: 20px;
+      text-align: center;
+
+      width: 160px;
+      padding-bottom: 20px;
+
+}
+
+.row {
+  clear: both;
+}
+
+
+
 
 * {
   box-sizing: border-box;
